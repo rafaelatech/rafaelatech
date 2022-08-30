@@ -3,12 +3,12 @@
 
   <img align="right" alt="gif-predios" src="https://i.pinimg.com/originals/15/0a/f1/150af156b71f7c5821016dcdc4eb867f.gif" height="356px" width="237px">  
   
-  <ul class="collection">
-      <li img align="left" alt="Rafa-C#" height="30" width="40" src="https://pin.it/7vDLQ12" </li>
-      <li class="collection-item">Alvin</li>
-      <li class="collection-item">Alvin</li>
-      <li class="collection-item">Alvin</li>
-    </ul>
+  <div class="carousel carousel-slider">
+    <a class="carousel-item" href="#one!"><img src="https://lorempixel.com/800/400/food/1"></a>
+    <a class="carousel-item" href="#two!"><img src="https://lorempixel.com/800/400/food/2"></a>
+    <a class="carousel-item" href="#three!"><img src="https://lorempixel.com/800/400/food/3"></a>
+    <a class="carousel-item" href="#four!"><img src="https://lorempixel.com/800/400/food/4"></a>
+  </div>
                      
 </div>          
 
